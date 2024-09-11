@@ -99,7 +99,7 @@ barplot(tabela_peso$Frequencia_Absoluta,
         xlab='Faixas', ylab='Frequencia',
         col='#046804',border = "black")
 
-# O gráfico sugere que os dados estão distribuídos de equilibrada em ambos os lados da média, indicando simetria.
+# O gráfico sugere que os dados estão distribuídos de maneira equilibrada em ambos os lados da média, indicando simetria.
 
 # 8) Obtenha as quantidades necessárias e esboce o box-plot das alturas. Coloque nos eixos os valores
 # utilizados para o esboço. O que você conclui a respeito da simetria e da presença de valores atípicos?
